@@ -1,0 +1,15 @@
+D:\!Users\ligei\Desktop\Meow\meow_001\bin\Debug\net6.0\meow_001.exe
+D:\!Users\ligei\Desktop\Meow\meow_001\bin\Debug\net6.0\meow_001.deps.json
+D:\!Users\ligei\Desktop\Meow\meow_001\bin\Debug\net6.0\meow_001.runtimeconfig.json
+D:\!Users\ligei\Desktop\Meow\meow_001\bin\Debug\net6.0\meow_001.dll
+D:\!Users\ligei\Desktop\Meow\meow_001\bin\Debug\net6.0\meow_001.pdb
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.csproj.AssemblyReference.cache
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.AssemblyInfoInputs.cache
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.AssemblyInfo.cs
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.csproj.CoreCompileInputs.cache
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.dll
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\refint\meow_001.dll
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.pdb
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\meow_001.genruntimeconfig.cache
+D:\!Users\ligei\Desktop\Meow\meow_001\obj\Debug\net6.0\ref\meow_001.dll
